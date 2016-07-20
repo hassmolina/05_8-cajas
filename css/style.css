@@ -1,0 +1,29 @@
+#primero{
+ 	background-color: #FC0;
+	height: 100px;
+	width: 100px;
+	margin: 12px;
+}
+.grande{
+	background-color: green;
+	width : 600px;
+    height : 130px;
+	padding-bottom: 10px;
+}
+
+.dentro, .inline{
+ 	background-color: #FC0;
+	margin: 12px;
+	display: inline-block;
+   width: 100px;
+   height: 100px;
+
+
+}
+div{
+	display: block;
+ 	background-color: #FC0;
+	height: 100px;
+	width: 100px;
+	margin: 12px;
+}
